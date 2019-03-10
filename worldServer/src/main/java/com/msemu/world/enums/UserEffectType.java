@@ -154,7 +154,7 @@ public enum UserEffectType {
     }
 }
 
-/**
+/*
  * enum $4AEE4C1847CC7C99CCABA8FF40789FDD
  * {
  * UserEffect_LevelUp = 0x0,
